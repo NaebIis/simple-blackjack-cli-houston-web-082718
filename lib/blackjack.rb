@@ -35,8 +35,6 @@ def hit?(card_total)
   prompt_user
     get_user_input
       return card_total
-      get_user_input
-      return card_total
   end
   
   
