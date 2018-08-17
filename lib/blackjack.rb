@@ -31,9 +31,7 @@ def initial_round
   return n
 end
 
-def hit?(get_user_input)
-  prompt_user = prompt_user
-  puts "#{prompt_user}"
+def hit?
 end
 
 def invalid_command
