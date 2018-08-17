@@ -32,7 +32,7 @@ def initial_round
 end
 
 def hit?(prompt_user)
-  puts prompt_user
+  prompt_user
 end
 
 def invalid_command
