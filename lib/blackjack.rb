@@ -31,7 +31,7 @@ def initial_round
   return n
 end
 
-def hit?
+def hit?(prompt_user)
   puts prompt_user
 end
 
