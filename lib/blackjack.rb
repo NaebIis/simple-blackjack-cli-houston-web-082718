@@ -32,12 +32,11 @@ def initial_round
 end
 
 def hit?(card_total)
+  (prompt_user
+  get_user_input
+  return card_total)
   prompt_user
   get_user_input
-  return card_total
-  prompt_user
-  get_user_input
-  return card_total
 end
 
 def invalid_command
