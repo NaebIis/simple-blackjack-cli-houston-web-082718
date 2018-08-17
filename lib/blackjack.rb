@@ -37,6 +37,8 @@ def hit?(card_total)
       return card_total
       if get_user_input == h 
         return card_total
+      else
+        return
   end
   
   
