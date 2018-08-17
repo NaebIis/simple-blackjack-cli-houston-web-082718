@@ -31,7 +31,7 @@ def initial_round
   return n
 end
 
-def hit?(prompt_user)
+def hit?(card_total)
   prompt_user
   get_user_input
 end
